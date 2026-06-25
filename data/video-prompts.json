@@ -1,25 +1,27 @@
 [
   {
-    "id": "awesome-ai-video-prompts",
-    "name": "Awesome AI Video Prompts",
-    "url": "https://github.com/geekjourneyx/awesome-ai-video-prompts",
-    "sourceType": "github",
-    "stars": 62,
-    "description": "Curated AI video prompts: official guides, templates, cinematic techniques. Veo, Sora, Runway, Pika, Kling.",
-    "models": ["veo", "sora", "runway", "pika", "kling"],
-    "format": "text",
-    "lang": "multi"
-  },
-  {
     "id": "awesome-seedance",
     "name": "Awesome Seedance 2.0 Prompts",
     "url": "https://github.com/ZeroLu/awesome-seedance",
     "sourceType": "github",
-    "stars": 0,
+    "stars": 2007,
     "description": "Curated Seedance 2.0 video prompts from ZeroLu (same author as awesome-nanobanana-pro).",
     "models": ["seedance"],
     "format": "text",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": "awesome-ai-video-prompts",
+    "name": "Awesome AI Video Prompts",
+    "url": "https://github.com/geekjourneyx/awesome-ai-video-prompts",
+    "sourceType": "github",
+    "stars": 63,
+    "description": "Curated AI video prompts: official guides, templates, cinematic techniques. Veo, Sora, Runway, Pika, Kling.",
+    "models": ["veo", "sora", "runway", "pika", "kling"],
+    "format": "text",
+    "lang": "multi",
+    "updatedAt": "2026-06-25"
   },
   {
     "id": "sora30",
@@ -30,6 +32,7 @@
     "description": "Sora 3.0 video prompt gallery with examples.",
     "models": ["sora"],
     "format": "text",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
   }
 ]

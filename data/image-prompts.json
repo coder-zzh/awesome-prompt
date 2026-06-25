@@ -1,80 +1,75 @@
 [
   {
-    "id": "awesome-gpt-image-2-api-and-prompts",
-    "name": "Awesome GPT-Image-2 API and Prompts",
-    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-    "sourceType": "github",
-    "stars": 16900,
-    "description": "GPT-Image-2 prompts & API examples. 143 commits, multi-language README.",
-    "models": ["gpt-image-2"],
-    "format": "text",
-    "lang": "multi"
-  },
-  {
     "id": "awesome-nanobanana-pro",
     "name": "Awesome Nano Banana Pro",
     "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
     "sourceType": "github",
-    "stars": 10100,
+    "stars": 10118,
     "description": "Curated Nano Banana Pro prompts with examples: photorealism, creative, e-commerce, etc.",
     "models": ["nanobanana-pro"],
     "format": "text",
-    "lang": "en"
-  },
-  {
-    "id": "ai-image-prompts-skill",
-    "name": "AI Image Prompts — 10,000+ Curated Prompts",
-    "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
-    "sourceType": "github",
-    "stars": 314,
-    "description": "10k+ prompts in 11 categories JSON, updated twice daily via GitHub Actions. Model-agnostic.",
-    "models": ["gpt-image", "nanobanana", "seedream", "midjourney", "flux", "stable-diffusion"],
-    "format": "json",
-    "lang": "multi"
-  },
-  {
-    "id": "awesome-ai-image-prompts",
-    "name": "Awesome AI Image Prompts",
-    "url": "https://github.com/devanshug2307/Awesome-AI-Image-Prompts",
-    "sourceType": "github",
-    "stars": 203,
-    "description": "1000+ copy-ready JSON prompts for 3D miniatures, product photography, portraits, character design.",
-    "models": ["gpt-image", "nanobanana", "midjourney", "flux", "stable-diffusion"],
-    "format": "json",
-    "lang": "en"
-  },
-  {
-    "id": "ai-visual-prompt-cookbook",
-    "name": "AI Visual Prompt Cookbook",
-    "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook",
-    "sourceType": "github",
-    "stars": 0,
-    "description": "Plug-and-play JSON style prompts: photo+doodle, zine, type posters, editorial, travel. 80 styles, 160 previews.",
-    "models": ["gpt-image", "nanobanana", "midjourney"],
-    "format": "json",
-    "lang": "multi"
-  },
-  {
-    "id": "awesome-gpt-image-2-prompts",
-    "name": "Awesome GPT-Image-2 Prompts",
-    "url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
-    "sourceType": "github",
-    "stars": 51,
-    "description": "Curated GPT-Image-2 prompts: portraits, posters, UI mockups, game screenshots, character sheets.",
-    "models": ["gpt-image-2"],
-    "format": "text",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
   },
   {
     "id": "awesome-gpt4o-images",
     "name": "Awesome GPT-4o Images",
     "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
     "sourceType": "github",
-    "stars": 24,
+    "stars": 8082,
     "description": "Curated GPT-4o image examples & prompts: Ghibli, 3D, anime, manga styles.",
     "models": ["gpt-4o"],
     "format": "text",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": "ai-visual-prompt-cookbook",
+    "name": "AI Visual Prompt Cookbook",
+    "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook",
+    "sourceType": "github",
+    "stars": 457,
+    "description": "Plug-and-play JSON style prompts: photo+doodle, zine, type posters, editorial, travel. 80 styles, 160 previews.",
+    "models": ["gpt-image", "nanobanana", "midjourney"],
+    "format": "json",
+    "lang": "multi",
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": "ai-image-prompts-skill",
+    "name": "AI Image Prompts — 10,000+ Curated Prompts",
+    "url": "https://github.com/YouMind-OpenLab/ai-image-prompts-skill",
+    "sourceType": "github",
+    "stars": 316,
+    "description": "10k+ prompts in 11 categories JSON, updated twice daily via GitHub Actions. Model-agnostic.",
+    "models": ["gpt-image", "nanobanana", "seedream", "midjourney", "flux", "stable-diffusion"],
+    "format": "json",
+    "lang": "multi",
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": "awesome-ai-image-prompts",
+    "name": "Awesome AI Image Prompts",
+    "url": "https://github.com/devanshug2307/Awesome-AI-Image-Prompts",
+    "sourceType": "github",
+    "stars": 208,
+    "description": "1000+ copy-ready JSON prompts for 3D miniatures, product photography, portraits, character design.",
+    "models": ["gpt-image", "nanobanana", "midjourney", "flux", "stable-diffusion"],
+    "format": "json",
+    "lang": "en",
+    "updatedAt": "2026-06-25"
+  },
+  {
+    "id": "awesome-gpt-image-2-prompts",
+    "name": "Awesome GPT-Image-2 Prompts",
+    "url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
+    "sourceType": "github",
+    "stars": 63,
+    "description": "Curated GPT-Image-2 prompts: portraits, posters, UI mockups, game screenshots, character sheets.",
+    "models": ["gpt-image-2"],
+    "format": "text",
+    "lang": "en",
+    "updatedAt": "2026-06-25"
   },
   {
     "id": "youmind",
@@ -85,7 +80,8 @@
     "description": "10k+ free prompts for NBP, GPT Image 2, Seedream 4.5, updated daily. Each prompt has sample image.",
     "models": ["nanobanana", "gpt-image", "seedream", "midjourney", "flux"],
     "format": "text",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
   },
   {
     "id": "imagejson",
@@ -96,7 +92,8 @@
     "description": "Hand-picked JSON prompts for Nano Banana & ChatGPT. Structured, production-ready.",
     "models": ["nanobanana", "gpt-image"],
     "format": "json",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
   },
   {
     "id": "promptlibrary-space",
@@ -107,18 +104,8 @@
     "description": "Free prompts for Nano Banana 2 & GPT Image 2. Community-driven with trending/categories.",
     "models": ["nanobanana", "gpt-image"],
     "format": "text",
-    "lang": "en"
-  },
-  {
-    "id": "promptimagelab",
-    "name": "PromptImageLab — 1000+ Free Prompts",
-    "url": "https://promptimagelab.com/prompts-hub",
-    "sourceType": "web",
-    "stars": 0,
-    "description": "1000+ prompts for Midjourney, DALL-E 3, Stable Diffusion, Adobe Firefly, Flux. Searchable.",
-    "models": ["midjourney", "dall-e", "stable-diffusion", "flux"],
-    "format": "text",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
   },
   {
     "id": "prompthero",
@@ -129,7 +116,8 @@
     "description": "Large Midjourney prompt gallery with community voting and example images.",
     "models": ["midjourney"],
     "format": "text",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
   },
   {
     "id": "awesomeprompts-xyz",
@@ -140,7 +128,8 @@
     "description": "950+ curated prompts for thumbnails, videos, illustrations. Open-source & community-driven.",
     "models": ["gpt-image", "midjourney", "flux"],
     "format": "text",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
   },
   {
     "id": "imagera",
@@ -151,6 +140,7 @@
     "description": "150+ tested prompts: portraits, landscapes, products, fantasy. Optimized for Flux.",
     "models": ["midjourney", "dall-e", "stable-diffusion", "flux"],
     "format": "text",
-    "lang": "en"
+    "lang": "en",
+    "updatedAt": "2026-06-25"
   }
 ]
